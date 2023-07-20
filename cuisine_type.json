@@ -1,70 +1,73 @@
 {
-        "indian": {
-            "aloo_tikki": {
-                "ingredients": [
-                    "4 oz peas", "2 tbsp cilantro/coriander", 
-                    "3 tbsp bread", "1 tbsp corn flour", "1 tbsp ginger paste",
-                    "2 tbsp cashew nuts", "1 green chili", "1 pound potatoes",
-                    "salt(taste)", "4 tbsp oil", "1 tbsp garam masala", "1 tbsp dry mango powder",
-                    "1/2 tbsp chaat masala", "1/2 tbsp chili powder", "1 tbsp ground cumin"
-                ], 
-                "instructions": [
-                    "First mash or grate your boiled potatoes, until they are smooth. Place the mashed potatoes in a bowl and add cilantro (coriander) leaves, peas, green chilies, ginger paste, chaat masala powder, garam masala powder, Kashmiri red chili powder, dry mango powder, cumin powder, cashew nuts, and salt, stir to combine. Next, add corn starch or rice flour, and bread crumbs, mix them into the potato mixture 1 pound Potatoes, 1½ tbsp Cilantro leaves, 4 oz Peas, 1 Green chili, 1 tsp Ginger paste, ½ tsp Chaat masala, 1 tsp Garam masala, ½ tsp Kashmiri chili powder, 1 tsp Dry mango powder, 1 tsp Cumin powder, 2 tbsp Cashew nuts, Salt and pepper, 1½ tbsp Corn starch, 3 tbsp Breadcrumbs",
-                    
-                    "Then, using your hands shape the mixture into even-sized balls, if the potato mixture is sticky, then add more bread crumbs, a little at a time until it is the right consistency. Now, press the potato balls in between the palms of your hands to make a patty shape, then place them on a baking tray and set them aside",
-                    
-                    "In a medium-sized pan on medium-high heat, heat your oil, place a tiny piece of the tikki mixture in the pan to ensure that the oil is hot enough. When the vegetable oil is hot, add the tikki and shallow fry the tikki for 3 minutes each side, you want each side to be firm before flipping it. When they are cooked they should be crispy and golden brown. Place the crispy aloo tikki on kitchen paper to absorb excess oil 4 tbsp Vegetable oil. Serve immediately and enjoy!"
-                ],
-                "photos": {
-                    "ingred": "https://i1.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-15-1-610x915.jpg",
-                    "step": "https://i1.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-16-610x349.jpg",
-                    "cooked": "https://i2.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-6-768x1024.jpg"
-                }
-            }
-        },
-        "chinese": {
-            "fried_noodles": {
-                "ingredients": [
-                    "100g fresh noodles", "2 tbsp ol", "1/2 cup proteins",
-                    "2 cups vegetables", "2 tbsp real all purpose chinese stir fry sauce",
-                    "1/4 cup water"
-                ],
-                "instructions": [
-                    "Prepare the protein by slicing them against the grain into 1/4 / 0.5cm slices or 2/3 / 2cm cubes.",
-                    "Heat oil in wok over high heat. When oil is hot, add Base Flavouring of choice and stir fry for about 10 seconds - don't let them burn!",
-                    "Add ingredients in order of length of time to cook, starting with those that take the longest but do not add leafy greens. Start with onion and proteins (together), followed by broccoli and other vegetables in floret form, followed by carrots, stems of leafy greens, zucchini, eggplant, beans and other firm vegetables, and lastly cabbage and snow peas and other vegetables that take little time to cook. DO NOT add bean sprouts or leafy greens - you will add them in the next step.",
-                    "Remove from heat, add leafy greens (leafy part of bok choy, spinach etc) and bean sprouts (if using), the noodles (use your fingers to break them up), the Sauce, water and Extra Flavours (optional).",
-                    "Return to heat, gently toss for 1 minute to heat through the noodles and for the sauce to thicken. If the water evaporates too quickly, add a bit more.",
-                    "Serve immediately."
-                ],
-                "photos": {
-                    "ingred": "https://www.recipetineats.com/wp-content/uploads/2014/06/Stir-Fried-Noodles-Build-Your-Own3.jpg?resize=650,1116",
-                    "step": "",
-                    "cooked": "https://www.recipetineats.com/wp-content/uploads/2014/06/Stir-Fried-Noodles-Build-Your-Own-1.jpg?resize=206,206"
-                }
-            }
-        },
-        "italian": {
-            "pane_sciocco": {
-                "ingredients": [
-                    "4 cups of flour", "1 cup of water", "2 tbsp of active yeast",
-                    "1 spoon of honey"
-                ],
-                "instructions": [
-                    "First we need to prepare a batter.",
-                    "Melt the yeast in the water, then put the flour in a bowl and then add the water mixed with the yeast and mix with your hands or you can help yourself with a spoon. You want to obtain a nice and smooth soft dough. If you have it, you could help yourself with a mixer, putting the ingredients inside the bowl and let the machine mix it for you. When the dough is created, cover it with plastic wrap and let it sit to raise for 12h. It's good to do this process in the evening so you can let it sit while you are sleeping.",
-                    "The dough has to double the size.",
-                    "In another (bigger) bowl add the rest of the ingredients, put the flour, melt the yeast and the honey in the water, and start to mix. When the dough is formed add the batter and mix it good by hands or using a mixer.",
-                    "Shape the dough as you like with your hands: round, or oval...",
-                    "Take an oven tray, cover it with parchment paper, put the shaped dough on it.",
-                    "Coat the dough with some olive oil and cover it with a kitchen towel. Let it sit for one hour.",
-                    "Put it in the oven and cook it for 45 minutes at 320 degrees."
-                ],
-                "photos": {
-                    "ingred": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-template1.jpg",
-                    "step": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-template4.jpg",
-                    "cooked": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-recipe-featured.jpg"
-                }
+    "indian": {
+        "aloo_tikki": {
+            "name": "aloo tikki",
+            "ingredients": [
+                "4 oz peas", "2 tbsp cilantro/coriander", 
+                "3 tbsp bread", "1 tbsp corn flour", "1 tbsp ginger paste",
+                "2 tbsp cashew nuts", "1 green chili", "1 pound potatoes",
+                "salt(taste)", "4 tbsp oil", "1 tbsp garam masala", "1 tbsp dry mango powder",
+                "1/2 tbsp chaat masala", "1/2 tbsp chili powder", "1 tbsp ground cumin"
+            ], 
+            "instructions": [
+                "First mash or grate your boiled potatoes, until they are smooth. Place the mashed potatoes in a bowl and add cilantro (coriander) leaves, peas, green chilies, ginger paste, chaat masala powder, garam masala powder, Kashmiri red chili powder, dry mango powder, cumin powder, cashew nuts, and salt, stir to combine. Next, add corn starch or rice flour, and bread crumbs, mix them into the potato mixture 1 pound Potatoes, 1½ tbsp Cilantro leaves, 4 oz Peas, 1 Green chili, 1 tsp Ginger paste, ½ tsp Chaat masala, 1 tsp Garam masala, ½ tsp Kashmiri chili powder, 1 tsp Dry mango powder, 1 tsp Cumin powder, 2 tbsp Cashew nuts, Salt and pepper, 1½ tbsp Corn starch, 3 tbsp Breadcrumbs",
+                
+                "Then, using your hands shape the mixture into even-sized balls, if the potato mixture is sticky, then add more bread crumbs, a little at a time until it is the right consistency. Now, press the potato balls in between the palms of your hands to make a patty shape, then place them on a baking tray and set them aside",
+                
+                "In a medium-sized pan on medium-high heat, heat your oil, place a tiny piece of the tikki mixture in the pan to ensure that the oil is hot enough. When the vegetable oil is hot, add the tikki and shallow fry the tikki for 3 minutes each side, you want each side to be firm before flipping it. When they are cooked they should be crispy and golden brown. Place the crispy aloo tikki on kitchen paper to absorb excess oil 4 tbsp Vegetable oil. Serve immediately and enjoy!"
+            ],
+            "photos": {
+                "ingred": "https://i1.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-15-1-610x915.jpg",
+                "step": "https://i1.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-16-610x349.jpg",
+                "cooked": "https://i2.wp.com/www.splashoftaste.com/wp-content/uploads/2022/02/Aloo-tikki-6-768x1024.jpg"
             }
         }
+    },
+    "chinese": {
+        "fried_noodles": {
+            "name": "fried noodles",
+            "ingredients": [
+                "100g fresh noodles", "2 tbsp ol", "1/2 cup proteins",
+                "2 cups vegetables", "2 tbsp real all purpose chinese stir fry sauce",
+                "1/4 cup water"
+            ],
+            "instructions": [
+                "Prepare the protein by slicing them against the grain into 1/4 / 0.5cm slices or 2/3 / 2cm cubes.",
+                "Heat oil in wok over high heat. When oil is hot, add Base Flavouring of choice and stir fry for about 10 seconds - don't let them burn!",
+                "Add ingredients in order of length of time to cook, starting with those that take the longest but do not add leafy greens. Start with onion and proteins (together), followed by broccoli and other vegetables in floret form, followed by carrots, stems of leafy greens, zucchini, eggplant, beans and other firm vegetables, and lastly cabbage and snow peas and other vegetables that take little time to cook. DO NOT add bean sprouts or leafy greens - you will add them in the next step.",
+                "Remove from heat, add leafy greens (leafy part of bok choy, spinach etc) and bean sprouts (if using), the noodles (use your fingers to break them up), the Sauce, water and Extra Flavours (optional).",
+                "Return to heat, gently toss for 1 minute to heat through the noodles and for the sauce to thicken. If the water evaporates too quickly, add a bit more.",
+                "Serve immediately."
+            ],
+            "photos": {
+                "ingred": "https://www.recipetineats.com/wp-content/uploads/2014/06/Stir-Fried-Noodles-Build-Your-Own3.jpg?resize=650,1116",
+                "step": "",
+                "cooked": "https://www.recipetineats.com/wp-content/uploads/2014/06/Stir-Fried-Noodles-Build-Your-Own-1.jpg?resize=206,206"
+            }
+        }
+    },
+    "italian": {
+        "pane_sciocco": {
+            "name": "pane sciocco",
+            "ingredients": [
+                "4 cups of flour", "1 cup of water", "2 tbsp of active yeast",
+                "1 spoon of honey"
+            ],
+            "instructions": [
+                "First we need to prepare a batter.",
+                "Melt the yeast in the water, then put the flour in a bowl and then add the water mixed with the yeast and mix with your hands or you can help yourself with a spoon. You want to obtain a nice and smooth soft dough. If you have it, you could help yourself with a mixer, putting the ingredients inside the bowl and let the machine mix it for you. When the dough is created, cover it with plastic wrap and let it sit to raise for 12h. It's good to do this process in the evening so you can let it sit while you are sleeping.",
+                "The dough has to double the size.",
+                "In another (bigger) bowl add the rest of the ingredients, put the flour, melt the yeast and the honey in the water, and start to mix. When the dough is formed add the batter and mix it good by hands or using a mixer.",
+                "Shape the dough as you like with your hands: round, or oval...",
+                "Take an oven tray, cover it with parchment paper, put the shaped dough on it.",
+                "Coat the dough with some olive oil and cover it with a kitchen towel. Let it sit for one hour.",
+                "Put it in the oven and cook it for 45 minutes at 320 degrees."
+            ],
+            "photos": {
+                "ingred": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-template1.jpg",
+                "step": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-template4.jpg",
+                "cooked": "http://thehumbledish.com/wp-content/uploads/2016/02/pane-toscano-recipe-featured.jpg"
+            }
+        }
+    }
 }
